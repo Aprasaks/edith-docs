@@ -14,16 +14,6 @@ slug: "nextjs-app-router"
 
 Next.js 13에서 도입되어 14에서 안정화된 App Router는 React의 최신 기능들을 활용한 새로운 라우팅 시스템입니다. Pages Router에서 App Router로 마이그레이션하는 완전한 가이드를 제공합니다.
 
-## 📖 목차
-
-1. [App Router vs Pages Router](#-app-router-vs-pages-router)
-2. [폴더 구조 변화](#-폴더-구조-변화)
-3. [레이아웃 시스템](#-레이아웃-시스템)
-4. [라우팅 방식](#-라우팅-방식)
-5. [데이터 페칭](#-데이터-페칭)
-6. [단계별 마이그레이션](#-단계별-마이그레이션)
-7. [성능 최적화](#-성능-최적화)
-8. [실전 예제](#-실전-예제)
 
 ## 🆚 App Router vs Pages Router
 
